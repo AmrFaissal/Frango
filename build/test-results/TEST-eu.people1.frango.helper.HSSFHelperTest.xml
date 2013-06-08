@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="eu.people1.frango.helper.HSSFHelperTest" tests="4" failures="0" errors="0" timestamp="2013-04-22T15:49:41" hostname="xstroika" time="0.051">
+  <properties/>
+  <testcase name="testShouldThrowExceptionOnInvalidDateCell" classname="eu.people1.frango.helper.HSSFHelperTest" time="0.015"/>
+  <testcase name="testShouldReturnValidNumericValue" classname="eu.people1.frango.helper.HSSFHelperTest" time="0.007"/>
+  <testcase name="testShouldReturnValidDate" classname="eu.people1.frango.helper.HSSFHelperTest" time="0.02"/>
+  <testcase name="testShouldReturnValidStringValue" classname="eu.people1.frango.helper.HSSFHelperTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
